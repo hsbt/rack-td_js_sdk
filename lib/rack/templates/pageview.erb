@@ -1,0 +1,9 @@
+<script type="text/javascript">
+(function(){
+  var td = new Treasure({
+    database: "<%= database %>",
+    writeKey: "<%= write_key %>"
+  });
+  td.trackPageview('pageviews');
+})();
+</script>
