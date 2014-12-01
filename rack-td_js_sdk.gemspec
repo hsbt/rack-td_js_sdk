@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["hisaichi5518@gmail.com"]
   spec.summary       = %q{Rack middleware of auto insert td-js-sdk snippets}
   spec.description   = %q{Rack middleware of auto insert td-js-sdk snippets}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/hisaichi5518/rack-td_js_sdk"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
