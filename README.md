@@ -1,6 +1,10 @@
 # Rack::TdJsSdk
 
-TODO: Write a gem description
+TreasureataのJavaScrip SDKとpageviewタグを自動で挿入します。
+
+## Usage
+
+TODO
 
 ## Installation
 
@@ -18,13 +22,9 @@ Or install it yourself as:
 
     $ gem install rack-td_js_sdk
 
-## Usage
-
-TODO: Write usage instructions here
-
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/rack-td_js_sdk/fork )
+1. Fork it ( https://github.com/hisaichi5518/rack-td_js_sdk/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
