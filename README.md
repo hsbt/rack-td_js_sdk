@@ -4,7 +4,9 @@ TreasureataのJavaScrip SDKとpageviewタグを自動で挿入します。
 
 ## Usage
 
-TODO
+1. Add `gem 'rack-td_js_sdk'` to Gemfile.
+2. Add `config.middleware.use Rack::TdJsSdk, database: "foo", write_key: "..."` to `config/application.rb` if use Rails4.
+3. Run `rails s` !!
 
 ## Installation
 
